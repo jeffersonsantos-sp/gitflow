@@ -1,6 +1,6 @@
 *.js @update-informatica
 .github/ @jeffersonsantos-sp
 *.py @jeffersonsantos-sp
-*.go @jeffersonsanto-sp
+*.go @jeffersonsantos-sp
 *.html @update-informatica
-
+*.html @jeffersonsantos-sp
